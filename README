@@ -1,0 +1,10 @@
+This is a simple PHP script that creates .M3U playlists on the fly for
+a selected folder. It makes the directory structure easily browsable
+from a mobile device using the IUI JavaScript/CSS library.
+
+To install, just place the index.php and .data folder at the top of the
+directory you want to make browsable.
+
+2011 (c) Andreas Gohr
+All my code is placed under the Public Domain - do whatever you want with it
+See LICENSE.txt in .data/iui for the IUI license
