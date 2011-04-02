@@ -1,0 +1,10 @@
+.folder {
+    background: transparent url(folder.png) 8px top no-repeat;
+    padding-left: 48px;
+}
+
+.mp3 {
+    background: transparent url(mp3.png) 8px top no-repeat;
+    padding-left: 48px;
+}
+
